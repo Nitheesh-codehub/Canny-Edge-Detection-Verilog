@@ -32,3 +32,4 @@ Image.fromarray(img, mode="L").save(OUT_IMG)
 
 print(f"✅ PNG generated: {OUT_IMG}")
 print(f"Image size: {VALID_W} x {VALID_H}")
+#comment line raah
